@@ -12,7 +12,6 @@
 
 body{
     font-family: 'Lato';
-    background-color: var(--color-dark);
     color: var(--color-white);
     display: flex;
     flex-direction: column;
